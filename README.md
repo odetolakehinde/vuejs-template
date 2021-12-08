@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-![alt text](.src/assets/img/ninja.png?raw=true)
+![Vue Ninja](src/assets/img/ninja.png)
 
 VueJS Ninja - [@twitter_handle](https://twitter.com/theodetola) - ninja@vueninja.com
 
