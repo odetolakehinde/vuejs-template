@@ -9,7 +9,8 @@ Sometimes, getting to start a new VueJS project can be stressful. You have to se
 * [Vue JS](https://vuejs.org/)
 * [TailwindCSS](https://tailwindcss.com/)
 * [Chakra UI](https://vue.chakra-ui.com/)
-More UI Frameworks coming soon.
+<br>
+`NB: More UI Frameworks coming soon.`
 
 
 ## Getting Started
